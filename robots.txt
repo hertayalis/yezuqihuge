@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yezuqihuge.vercel.app/sitemap.xml
